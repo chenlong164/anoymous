@@ -1,4 +1,3 @@
-# anoymous
 <h1 align="center">🔬 AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models</h1>
 
 <p align="center">
