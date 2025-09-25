@@ -1,12 +1,14 @@
 <h1 align="center">🔬 AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models</h1>
 
 <p align="center">
-  <strong>Official GitHub Repository for the AttriLens-Mol</strong><br>
+  <strong>Official GitHub Repository for AttriLens-Mol</strong><br>
 </p>
 
 ---
+
 ## 🧠 Overview
 This repository introduces **AttriLens-Mol**, an **attribute-guided reinforcement learning framework** for molecular property prediction with large language models.  
+In addition to the AttriLens-Mol framework, this repository also provides **datasets** and **baseline training scripts** (Random Forest) for reproducibility.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00a47fd6-17f9-4f97-a06f-4f37609ded69" width="100%" />
@@ -16,6 +18,7 @@ This repository introduces **AttriLens-Mol**, an **attribute-guided reinforcemen
 
 ## 📦 What’s Included  
 
+```text
 ├── Dataset/               # Datasets for both AttriLens-Mol and Random Forest experiments
 │   ├── AttriLens-Mol/     # Training and test sets for AttriLens-Mol
 │   └── Random_Forest/     # Train/validation/test splits for Random Forest baselines
@@ -27,7 +30,6 @@ This repository introduces **AttriLens-Mol**, an **attribute-guided reinforcemen
 ├── requirements.txt       # Dependency list for environment setup
 └── README.md              # Project documentation
 
----
 ## 🛠️ Installation
 
 Clone this repository and install dependencies:
